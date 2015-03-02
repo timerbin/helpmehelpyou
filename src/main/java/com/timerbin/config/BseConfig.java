@@ -17,7 +17,7 @@ public class BseConfig  extends JFinalConfig {
 	@Override
 	public void configConstant(Constants me) {
 		// TODO Auto-generated method stub
-		//peizhi 
+		//peizhi wangwenbin
 	}
 	/**
 	 * 配置路由
