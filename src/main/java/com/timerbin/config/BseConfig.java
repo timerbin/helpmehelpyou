@@ -26,6 +26,7 @@ public class BseConfig  extends JFinalConfig {
 	public void configRoute(Routes me) {
 		me.add("/", IndexController.class,"/template");
 	}
+	
 	/**
 	 * 配置插件
 	 */
