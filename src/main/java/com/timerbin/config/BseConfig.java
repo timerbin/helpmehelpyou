@@ -17,7 +17,7 @@ public class BseConfig  extends JFinalConfig {
 	@Override
 	public void configConstant(Constants me) {
 		// TODO Auto-generated method stub
-		
+		//peizhi 
 	}
 	/**
 	 * 配置路由
@@ -26,7 +26,6 @@ public class BseConfig  extends JFinalConfig {
 	public void configRoute(Routes me) {
 		me.add("/", IndexController.class,"/template");
 	}
-	
 	/**
 	 * 配置插件
 	 */
